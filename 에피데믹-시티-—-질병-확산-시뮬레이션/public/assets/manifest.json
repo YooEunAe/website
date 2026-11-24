@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "description": "에피데믹 시티 커스텀 이미지 및 스프라이트 에셋 매니페스트",
+  "directories": {
+    "backgrounds": "/assets/backgrounds/",
+    "characters": "/assets/characters/",
+    "virus": "/assets/virus/",
+    "environment": "/assets/environment/",
+    "ui": "/assets/ui/",
+    "sprites": "/assets/sprites/"
+  },
+  "stateMappings": {
+    "calm": "감염자 없음 — 안정적인 일상 도시",
+    "spreading": "감염 확산 초기 — 접촉 및 전파 증가",
+    "surge": "감염 급증 — 의료 체계 부담 상승",
+    "recovering": "감염 감소 — 회복자 증가 및 안정화",
+    "contained": "감염병 종식 — 신규 감염 중단"
+  }
+}
